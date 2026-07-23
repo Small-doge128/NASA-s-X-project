@@ -1,4 +1,7 @@
+# NO AI USED
+
 # about
+I do already have the soldering tip at home, so almost 100$ saved.
 
 # features
 

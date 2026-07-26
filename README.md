@@ -1,5 +1,3 @@
-# NO AI USED
-
 # about
 
 # features
